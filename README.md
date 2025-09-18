@@ -63,4 +63,6 @@ The **Nexus darknet vendor panel** is an essential tool for anyone looking to su
 ---
 *Disclaimer: This article is for informational purposes only. Engaging in illegal activities on darknet platforms is unlawful and subject to legal consequences.*
 
-Update:  Sunday 14 September 2025
+
+
+Update:  Thursday 18 September 2025 Invalid URLs fixed
